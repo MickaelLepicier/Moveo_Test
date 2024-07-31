@@ -1,6 +1,3 @@
-Create a RESTful API
-
-User authentication via AWS Cognito.
 
 # The code should be clean, well-documented, and follow best practices.
 
@@ -10,6 +7,6 @@ User authentication via AWS Cognito.
 
 3. Use an ORM like Mongoose for database interaction.
 
-User Authentication:
+4. User Authentication:
 
 Implement user authentication using AWS Cognito User Pool (for this task, you can create these users manually).
